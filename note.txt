@@ -1,0 +1,7 @@
+First, create a button that will be used to toggle between the dark and light theme. You can do this using HTML.
+
+Next, create two sets of CSS styles, one for the light theme and one for the dark theme. You can do this by using the :root pseudo-class to define global variables for the color values, and then using those variables in your styles.
+
+Then, add a JavaScript function that will be called when the theme switch button is clicked. This function should toggle a class on the <html> element to switch between the light and dark themes.
+
+
